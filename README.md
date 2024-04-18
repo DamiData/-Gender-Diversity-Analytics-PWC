@@ -3,6 +3,13 @@
 
 This project aims to enhance gender diversity and inclusion at the executive management level within a telecom client's organization. Despite ongoing efforts, there has been limited progress in achieving a balanced representation of men and women in leadership roles. The project focuses on analyzing key areas such as hiring practices, promotions, time in grade, performance ratings, age group distribution, and executive gender balance to identify areas for improvement and implement targeted strategies.
 
+
+## Tools Used
+
+- Power BI: Creating interactive reports and visualizations.
+  - [Download Power BI](https://powerbi.microsoft.com/)
+  
+
 ## Key Focus Areas
 
 1. **Hiring Practices Analysis:** Evaluate the gender distribution of new hires to identify any biases in recruitment processes and implement strategies to attract more female candidates.
